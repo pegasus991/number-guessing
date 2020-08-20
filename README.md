@@ -6,4 +6,4 @@ here i will be providing 3 sets of code for the number guessing game . The first
 
 2nd code - limited number of chances to guess the game(in our case 3)
 
-3rd code - limited no of chances to guess the game(using while loop)
+3rd code - limited number of chances to guess the game(using while loop)
